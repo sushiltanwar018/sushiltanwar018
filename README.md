@@ -2,7 +2,7 @@
 
 Senior iOS Developer with ~10 years of experience building scalable, secure, enterprise-grade mobile applications using Swift, SwiftUI, UIKit, and Objective-C.
 
-Currently working on enterprise healthcare applications for Pfizer via McKinsey & Company.
+Lastly worked on an enterprise healthcare applications for Pfizer via McKinsey & Company.
 
 ---
 
@@ -79,7 +79,7 @@ Worked on ScoutField AI, an enterprise AI-powered healthcare iPad application fo
 * Pfizer (Healthcare Project)
 * Zimyo Consulting Pvt. Ltd.
 * Spaak Super Tec Pvt. Ltd.
-* Healthcare Insights LLC (US Healthcare Product Company)
+* Gritsa Technologies Pvt. Ltd. for Healthcare Insights LLC (US Healthcare Product Company)
 
 ---
 
